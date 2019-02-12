@@ -1,0 +1,5 @@
+,airavata-django-portal,,chemistry-cmislib,,cloudstack-docs-rn,,cloudstack-documentation,,fluo-muchos,,incubator-spot,
+,new,old,new,old,new,old,new,old,new,old,new,old
+fixed issues,7.1k,24k,1.6k,1700,11,22,1,1,723,1.2k,4k,9k
+Unresolved issues,8.7k,8.7k,1.3k,1300,37,37,6,6,178,178,2k,2k
+fixing rate,44.94%,73.39%,55.17%,56.67%,22.92%,37.29%,14.29%,14.29%,80.24%,87.08%,66.67%,81.82%
