@@ -62,3 +62,4 @@ for each in list_allweek:
     print(commit_email)
 
     print(author)
+#    print(commit_hash,commit_author)
