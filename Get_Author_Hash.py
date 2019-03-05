@@ -52,14 +52,16 @@ while i + 1 < len_list_allweek:
 counter = 0
 
 for each in list_allweek:
-    print(each)
+#    print(each)
     commit_hash = str(each[SHA])
     commit_author = str(each[AUTHOR])
 
+    print(commit_hash)
+    print(commit_author)
     author_all = repr(each[AUTHOR])
     author = str(author_all)
     commit_email = re.split('<|>',author)[-3]
     print(commit_email)
 
-    print(author)
+#    print(author)
 #    print(commit_hash,commit_author)
